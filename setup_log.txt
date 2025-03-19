@@ -19,3 +19,9 @@
 03/19/2025 04:41:44 - ❌ Virtual environment not found!
 03/19/2025 04:41:44 - 🔄 Creating a new virtual environment...
 03/19/2025 04:41:45 - ❌ Failed to create virtual environment! Check your Python installation.
+03/19/2025 05:37:05 - ❌ Virtual environment not found!
+03/19/2025 05:37:05 - 🔄 Creating a new virtual environment...
+03/19/2025 05:37:06 - ❌ Failed to create virtual environment! Check your Python installation.
+03/19/2025 05:51:15 - ❌ Virtual environment not found!
+03/19/2025 05:51:15 - 🔄 Creating a new virtual environment...
+03/19/2025 05:51:15 - ❌ Failed to create virtual environment! Check your Python installation.
