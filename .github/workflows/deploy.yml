@@ -1,28 +1,18 @@
-name: Deploy FastAPI to Railway
-
-on:
-  push:
-    branches:
-      - main
-
+name: Deploy AI System
+on: [push]
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Install Dependencies
-        run: |
-          python -m venv venv
-          source venv/bin/activate
-          pip install -r requirements.txt
-
-      - name: Deploy to Railway
-        run: |
-          railway up
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.10'
+    - name: Install Dependencies
+      run: pip install -r requirements.txt
+    - name: Run Tests
+      run: pytest
+    - name: Deploy to Cloudflare
+      run: cloudflare-cli deploy --token YOUR_CLOUDFLARE_TOKEN
