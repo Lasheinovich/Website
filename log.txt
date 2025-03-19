@@ -91,3 +91,9 @@
 /bin/sh: 1: /mnt/d/Moataz/The AI Project/run_app.sh: not found
 /bin/sh: 1: /mnt/d/Moataz/The AI Project/run_app.sh: not found
 /bin/sh: 1: /mnt/d/Moataz/The AI Project/run_app.sh: not found
+/bin/sh: 1: /mnt/d/Moataz/The AI Project/run_app.sh: not found
+/bin/sh: 1: /mnt/d/Moataz/The AI Project/run_app.sh: not found
+/bin/sh: 1: /mnt/d/Moataz/The AI Project/run_app.sh: not found
+/bin/sh: 1: /mnt/d/Moataz/The AI Project/run_app.sh: not found
+/bin/sh: 1: /mnt/d/Moataz/The AI Project/run_app.sh: not found
+/bin/sh: 1: /mnt/d/Moataz/The AI Project/run_app.sh: not found
