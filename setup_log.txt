@@ -5,3 +5,17 @@
 03/19/2025 02:55:26 - ✅ Virtual environment activated in AI Project
 03/19/2025 02:55:26 - 🚀 Welcome to AI-Project! Your virtual environment is ready.
 03/19/2025 02:55:26 - 🐍 Python Version: Python 3.10.11
+03/19/2025 04:22:12 - ❌ Virtual environment not found!
+03/19/2025 04:22:12 - 🔄 Creating a new virtual environment...
+03/19/2025 04:22:26 - ❌ Virtual environment not found!
+03/19/2025 04:22:26 - 🔄 Creating a new virtual environment...
+03/19/2025 04:22:26 - ❌ Failed to create virtual environment! Check your Python installation.
+03/19/2025 04:22:36 - ❌ Virtual environment not found!
+03/19/2025 04:22:36 - 🔄 Creating a new virtual environment...
+03/19/2025 04:22:36 - ❌ Failed to create virtual environment! Check your Python installation.
+03/19/2025 04:25:54 - ❌ Virtual environment not found!
+03/19/2025 04:25:54 - 🔄 Creating a new virtual environment...
+03/19/2025 04:25:54 - ❌ Failed to create virtual environment! Check your Python installation.
+03/19/2025 04:41:44 - ❌ Virtual environment not found!
+03/19/2025 04:41:44 - 🔄 Creating a new virtual environment...
+03/19/2025 04:41:45 - ❌ Failed to create virtual environment! Check your Python installation.
