@@ -1,0 +1,26 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and caches
+*.log
+*.cache
+*.bak
+*.swp
+
+# Ignore hidden directories
+.*
+
+# Ignore unnecessary data
+node_modules/
+*.sqlite
+*.db
+*.tar.gz
+*.zip
