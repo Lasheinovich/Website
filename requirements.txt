@@ -8,6 +8,8 @@ alembic==1.15.1
 amqp==5.3.1
 annotated-types==0.7.0
 antlr4-python3-runtime==4.13.2
+anyio==4.8.0
+apparmor==3.0.4
 applicationinsights==0.11.10
 argcomplete==3.5.3
 argon2-cffi==23.1.0
@@ -132,6 +134,7 @@ click-didyoumean==0.3.1
 click-plugins==1.1.1
 click-repl==0.3.0
 clickclick==20.10.2
+cloud-init==24.4.1
 cloudflare==2.8.14
 cloudpathlib==0.21.0
 cloudpickle==3.1.1
